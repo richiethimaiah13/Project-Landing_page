@@ -1,0 +1,35 @@
+.header_container{
+    background-color: #1F2937;
+    color: white;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.left-side {
+    font-size: 24px;
+}
+
+.right-side{
+    display: flex;
+    gap: 20px;
+    font-size: 18px;
+}
+
+.hero_container{
+    background-color: #1F2937;
+    display: flex;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    align-items: center;
+    gap: 0px;
+}
+
+
