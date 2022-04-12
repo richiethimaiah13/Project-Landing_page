@@ -2,7 +2,7 @@
     background-color: #1F2937;
     color: white;
     box-sizing: border-box;
-    margin: 0px;
+    margin: auto;
     padding: 0px;
     display: flex;
     justify-content: space-around;
@@ -27,9 +27,21 @@
     display: flex;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    display: flex;
     justify-content: center;
-    align-items: center;
-    gap: 0px;
+    
 }
 
+.hero-section{
+    flex: 1 0 0;
+    border: 2px solid red;  
+    margin-left: 300px;
+    
+}
 
+.image-placeholder{
+    flex: 1;
+    border: 2px solid red;
+    margin-right: 300px;
+
+}
